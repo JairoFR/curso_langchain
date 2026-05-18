@@ -1,0 +1,7 @@
+# Archivos sensibles
+api_key_chagpt.txt
+google_AI_api_key.txt
+
+# Entorno virtual
+env/
+.env
